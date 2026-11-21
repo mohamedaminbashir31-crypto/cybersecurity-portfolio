@@ -1,21 +1,21 @@
-# 🔐 Cybersecurity Portfolio
+Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio!
 
 I'm **Mohamedamin Bashir Abdullahi**, a Bachelor of Computer Science student aspiring to specialize in Cybersecurity.
 
-### 🎯 Areas of Interest
-- Cybersecurity
-- Network Security
-- Linux
-- Ethical Hacking
+ Areas of Interest
+ Cybersecurity
+Network Security
+Linux
+ Ethical Hacking
 
-### 🛠️ Technologies
-- HTML, CSS & JavaScript
-- Git & GitHub
-- Networking Fundamentals
+ Technologies
+HTML, CSS & JavaScript
+  Git & GitHub
+  Networking Fundamentals
 
-### 📂 Projects
+ Projects
 
 | Project | Status |
 |---|---|
@@ -24,11 +24,11 @@ I'm **Mohamedamin Bashir Abdullahi**, a Bachelor of Computer Science student asp
 | Wireshark Analysis | Coming Soon |
 | Security Assessment | Coming Soon |
 
-### 📬 Contact
+ Contact
 - GitHub: [My Profile](https://github.com/mohamedaminbashir31-crypto)
 - Email: mohamedaminbashir31@gmail.com
 
-### My Goal
+My Goal
 To develop practical cybersecurity skills through continuous learning and hands-on projects.
 
-**Learning. Exploring. Securing.**
+Learning. Exploring. Securing.
