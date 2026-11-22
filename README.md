@@ -1,8 +1,8 @@
-Cybersecurity Portfolio
+
 
 Welcome to my cybersecurity portfolio!
 
-I'm **Mohamedamin Bashir Abdullahi**, a Bachelor of Computer Science student aspiring to specialize in Cybersecurity.
+I'm Mohamedamin Bashir Abdullahi, a Bachelor of Computer Science student aspiring to specialize in Cybersecurity.
 
  Areas of Interest
  Cybersecurity
